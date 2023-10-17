@@ -1,0 +1,11 @@
+tamanho do carro redimencionar
+
+original: largura: 1059, altura: 476
+
+
+mapa:
+    largura: 1920
+    altura: 1080
+    
+    
+    link canva base: https://www.canva.com/design/DAFxU7utf4A/a4NjboXf-D3w1v09_db50g/view?utm_content=DAFxU7utf4A&utm_campaign=designshare&utm_medium=link&utm_source=editor
