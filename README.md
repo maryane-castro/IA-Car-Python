@@ -1,4 +1,4 @@
-# README - Projeto de Simulação de Carros Autônomos com NEAT e Pygame
+# IA-Car-PYthon
 
 Este é um projeto de simulação de carros autônomos desenvolvido utilizando a biblioteca Python Pygame e o algoritmo NEAT (NeuroEvolution of Augmenting Topologies). O objetivo deste projeto é treinar carros autônomos para navegar por um ambiente e aprender a evitar colisões com obstáculos. Este README fornece uma visão geral do projeto, suas principais características, e como executá-lo.
 
