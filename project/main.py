@@ -7,7 +7,7 @@ import neat
 import pygame
 
 
-mapa = 'project/maps_car/maps/map2.jpg'
+mapa = 'project/maps_car/maps/map3.jpg'
 carro = 'project/maps_car/cars/car1.png'
 config_neat = 'project/config.txt'
 
