@@ -32,8 +32,7 @@ pip install neat-python==0.92
 Para executar a simulação, siga estas etapas:
 
 1. Clone ou faça o download do repositório.
-2. Certifique-se de ter todos os requisitos instalados.
-3. Execute o arquivo `main.py` a partir da linha de comando ou de um ambiente de desenvolvimento Python.
+2. Execute o arquivo `main.py` a partir da linha de comando ou de um ambiente de desenvolvimento Python.
 
 A simulação será renderizada na tela e você poderá acompanhar o progresso dos carros autônomos à medida que aprendem a navegar no ambiente.
 
