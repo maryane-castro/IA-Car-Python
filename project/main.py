@@ -7,7 +7,7 @@ import neat
 import pygame
 
 
-mapa = 'project/maps_car/maps/map.png'
+mapa = 'project/maps_car/maps/map2.jpg'
 carro = 'project/maps_car/cars/car1.png'
 config_neat = 'project/config.txt'
 
@@ -219,12 +219,12 @@ def executar_simulacao(genomas, config):
                 carro.desenhar(tela)
 
         # Exibir informações
-        texto_geracao = fonte_geracao.render("Geração: " + str(geracao_atual), True, (0, 0, 0))
+        texto_geracao = fonte_geracao.render("Geração: " + str(geracao_atual), True, (255, 0, 0))
         retangulo_texto_geracao = texto_geracao.get_rect()
         retangulo_texto_geracao.center = (900, 450)
         tela.blit(texto_geracao, retangulo_texto_geracao)
 
-        texto_vivos = fonte_vivos.render("Ainda Vivos: " + str(ainda_vivos), True, (0, 0, 0))
+        texto_vivos = fonte_vivos.render("Ainda Vivos: " + str(ainda_vivos), True, (255, 0, 0))
         retangulo_texto_vivos = texto_vivos.get_rect()
         retangulo_texto_vivos.center = (900, 490)
         tela.blit(texto_vivos, retangulo_texto_vivos)
